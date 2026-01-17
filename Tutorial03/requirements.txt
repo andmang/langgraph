@@ -1,0 +1,14 @@
+langchain_core
+langchain
+langchain_community
+langchain_experimental
+langchain-groq
+langchain-openai
+langchain-classic
+langgraph
+pygraphviz
+python-dotenv
+ipykernel
+ddgs
+transformers
+bs4
